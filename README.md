@@ -1,3 +1,21 @@
+
+
+안녕하세요 저는 성균관대학교에 재학하고 있는 임영이라고 합니다. 
+
+저는 파이썬, C, 자바, 등 언어를 다룰 수 있으며, 앱개발 경험, 웹개발 경험이 있습니다.
+
+고등학교는 인천중산화교중학교에서 나왔으며, 2019년도에 성균관대에 입학하여 시스템경영공학과로 진학하고, 2021년 복수전공으로 소프트웨어학교에 진학하였습니다. 현재 오픈소스소프트웨어 강의 수강 중입니다. 
+
+ADSP, 품질경영기사 자격증 보유 중입니다.
+
+email: loving5917@naver.com
+github: https://github.com/loving5917
+
+
+
+
+
+
 ### archived in favor of v2 release soon ;)
 
 <img src="https://i.imgur.com/eA6clZr.png">
